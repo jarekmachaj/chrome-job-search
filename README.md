@@ -1,2 +1,7 @@
-chrome-job-search
-=================
+Chrome Job search
+===========
+
+##Description
+Chrome Out of browser app.
+
+
